@@ -16,7 +16,8 @@
     ],
     "require": {
         "php": "^8.0",
-        "vladimir-yuldashev/laravel-queue-rabbitmq": "^14.1"
+        "vladimir-yuldashev/laravel-queue-rabbitmq": "^14.1",
+        "predis/predis": "^2.3"
     },
     "extra": {
         "laravel": {

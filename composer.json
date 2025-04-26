@@ -1,5 +1,5 @@
 {
-    "name": "abdallahnasar/madinastores-microservice-utils",
+    "name": "madinastores/madinastores-microservice-utils",
     "description": "Shared utilities for MadinaStores microservices",
     "type": "library",
     "license": "MIT",

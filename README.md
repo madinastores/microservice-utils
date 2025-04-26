@@ -6,7 +6,7 @@ Shared Laravel utilities for microservice projects — built to simplify cross-s
 ## Installation
 
 ```bash
-composer require abdallahnasar/madinastores-microservice-utils
+composer require madinastores/madinastores-microservice-utils
 ```
 
 
